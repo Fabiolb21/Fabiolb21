@@ -5,6 +5,7 @@
 
 
 ![Fabio GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabiolb21&show_icons=true&theme=dracula&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabiolb21)](https://github.com/Fabiolb21/github-readme-stats)
 
 ## Tecnologias que estudo
 

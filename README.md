@@ -7,7 +7,7 @@
 ![Fabio GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabiolb21&show_icons=true&theme=dracula&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabiolb21)](https://github.com/Fabiolb21/github-readme-stats)
 
-## Tecnologias que estudo
+## Tecnologias que estudo e que tenho algum tipo de conhecimento:
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -18,4 +18,4 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-Apaixonado por tecnologia.
+

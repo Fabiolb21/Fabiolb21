@@ -3,9 +3,12 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fabio-luis-bernardo-de-morais-9700b54a)
 
+<div>
 
-![Fabio GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabiolb21&show_icons=true&theme=dracula&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabiolb21)](https://github.com/Fabiolb21/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabiolb21&show_icons=true&theme=dracula&count_private=true)](https://github.com/Fabiolb21/github-readme-stats)
+  
+</div>
+
 
 ## Tecnologias que estudo e que tenho algum tipo de conhecimento:
 

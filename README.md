@@ -1,16 +1,13 @@
-### Olá! Eu sou o Fabio luis Bernardo de Morais
+### Olá Pessoal! 
+Meu nome é Fabio Bernardo, sou estudante de Analise e Desenvolvimento de Sistema .Atualmente em um precesso de transição de carreira.
 
+
+Para me encontrar:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fabio-luis-bernardo-de-morais-9700b54a)
 
-<div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabiolb21&show_icons=true&theme=dracula&count_private=true)](https://github.com/Fabiolb21/github-readme-stats)
-  
-</div>
-
-
-## Tecnologias que estudo e que tenho algum tipo de conhecimento:
+Tecnologias que estudo e que tenho algum tipo de conhecimento:
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />

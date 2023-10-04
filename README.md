@@ -3,8 +3,6 @@ Meu nome é Fabio Bernardo, sou estudante de Analise Desenvolvimento de Sistema 
 
 👨‍💻 Estudante de Analise Desenvolvimento de Sistema.
 
-🎯 Objetivo: atuar como uma desenvolvedor de software Back-end. 
-
 📚 Atualmente, estou estudando: Javascript, Node.js e PostgreSQL no curso de Desenvolvimento de Software com foco em Back-end ministrado pela [Cubos Academy](https://cubos.academy/).
 
 
